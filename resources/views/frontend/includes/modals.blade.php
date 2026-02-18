@@ -177,8 +177,8 @@
                     <div class="modal-form-group">
                         <label class="modal-form__label" for="phone-sign-up">Número de teléfono:</label>
                         <div class="modal-form-group-phone">
-                            <span id="phone-code-sign-up" class="phone-code" data-phone-code="+34">+34</span>
-                            <input id="phone-sign-up" class="modal-form__input modal-form__input-phone" type="text" placeholder="000 000 00 00" autocomplete="off" name="phone">
+                            <span id="phone-code-sign-up" class="phone-code" data-phone-code="+52">+52</span>
+                            <input id="phone-sign-up" class="modal-form__input modal-form__input-phone" type="text" placeholder="00 0000 0000" autocomplete="off" name="phone">
                         </div>
 
                     </div>

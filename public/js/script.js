@@ -2066,13 +2066,14 @@ class CreditServices {
 
     resSuccess() {
 
-        this.translations = this.objData['translations'];
 
         if (this.currentRequest == 'get-services') {
 
             this.userAuth = this.objData.auth;
 
             this.objServicesData = this.objData['data'];
+
+            this.translations = this.objData['translations'];
 
             this.addHtml();
 
@@ -2086,6 +2087,7 @@ class CreditServices {
             delete this.objData['status'];
 
             this.objServicesData[this.currentCategory] = this.objData;
+
 
             this.addNewServicesHtml();
 

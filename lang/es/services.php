@@ -1,40 +1,40 @@
 <?php
 
 return [
-    'no_services' => 'Сервісів немає',
-    'action' => 'Дія',
-    'date' => 'Дата',
-    'no_history' => 'Немає історії',
+    'no_services' => 'No hay servicios',
+    'action' => 'Acción',
+    'date' => 'Fecha',
+    'no_history' => 'No hay historial',
 
-    'from' => 'Від',
-    'rate_per_day' => 'Вставка в день',
+    'from' => 'Desde',
+    'rate_per_day' => 'Tasa diaria',
 
-    'to' => 'До',
-    'days' => 'днів',
-    'max_term' => 'макс. термін',
+    'to' => 'Hasta',
+    'days' => 'días',
+    'max_term' => 'plazo máximo',
 
-    'currency' => 'грн',
-    'max_amount' => 'макс. сума',
+    'currency' => 'pesos',
+    'max_amount' => 'monto máximo',
 
-    'votes' => 'голосів',
+    'votes' => 'votos',
 
-    'get_loan' => 'Отримати позику',
+    'get_loan' => 'Obtener préstamo',
 
-    'promo_code' => 'Промокод',
-    'copied' => 'Скопійовано',
+    'promo_code' => 'Código promocional',
+    'copied' => 'Copiado',
 
-    'open' => ' Відкрити',
+    'open' => ' Abrir',
 
-    'discount_promo_code' => 'Знижка по промокоду',
-    'license' => 'Ліцензія',
-    'legal_entity' => 'Юридична особа',
-    'address' => 'Адреса',
-    'phone' => 'Телефон',
-    'more_details' => 'Детальніше',
-    'hide' => 'Приховати',
+    'discount_promo_code' => 'Descuento con código promocional',
+    'license' => 'Licencia',
+    'legal_entity' => 'Persona jurídica',
+    'address' => 'Dirección',
+    'phone' => 'Teléfono',
+    'more_details' => 'Más detalles',
+    'hide' => 'Ocultar',
 
-    'hide_2' => 'Сховати',
-    'display' => 'Відобразити',
-    'credit_history' => 'Історія кредитів',
+    'hide_2' => 'Ocultar',
+    'display' => 'Mostrar',
+    'credit_history' => 'Historial de créditos',
 
 ];

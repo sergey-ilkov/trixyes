@@ -196,7 +196,9 @@
 
                 @if (auth('web')->user())
 
-                <button class="services-tabs__btn" type="button">Історія кредитів</button>
+                <button class="services-tabs__btn" type="button">
+                    Historial de créditos
+                </button>
 
                 @endif
 

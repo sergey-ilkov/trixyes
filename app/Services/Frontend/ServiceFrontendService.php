@@ -275,6 +275,7 @@ class ServiceFrontendService
         $resData = [
             'status' => 'ok',
             'data' => [],
+            // 'translations' => Lang::get('services'),
         ];
 
 

@@ -3402,6 +3402,7 @@ form .modal-form-text {
 }
 .credit-service__btn-history {
     font-weight: 400;
+    padding: 6px 5px;
 }
 .credit-service-box__list-hidden {
     padding: 10px 0px;
