@@ -2589,8 +2589,8 @@ class ForgotPasswordModal {
         this.objSendData = {};
         this.objSendData[this.inputEmail.name] = this.inputEmail.value;
 
-        if (this.token) {
-            this.objSendData['_token'] = this.token.getAttribute('content');
+        if (tokenCsrf) {
+            this.objSendData['_token'] = tokenCsrf;
         }
     }
 
