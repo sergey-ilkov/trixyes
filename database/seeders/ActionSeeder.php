@@ -33,7 +33,7 @@ class ActionSeeder extends Seeder
             ],
             [
                 'name' => [
-                    'es' => '"Obtener un préstamo" seleccionado',
+                    'es' => 'Seleccionado Obtener un préstamo',
                     // 'uk' => 'Вибрано "Отримати позику"',
                     // 'ru' => 'Выбрано "Получить ссуду"',
                 ],

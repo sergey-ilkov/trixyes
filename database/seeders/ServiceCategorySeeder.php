@@ -57,17 +57,17 @@ class ServiceCategorySeeder extends Seeder
             [
 
                 'name' => [
-                    'uk' => 'Mejor costo',
+                    'es' => 'Mejor costo',
                     // 'uk' => 'Краща вартість',
                     // 'ru' => 'Лучшая стоимость',
                 ],
                 'title' => [
-                    'uk' => 'Calificación de servicios crediticios de costo T',
+                    'es' => 'Calificación de servicios crediticios de costo T',
                     // 'uk' => 'Рейтинг T-вартість кредитних сервісів',
                     // 'ru' => 'Рейтинг T-стоимость кредитных сервисов',
                 ],
                 'description' => [
-                    'uk' => '<p>Un valor T alto significa que el servicio de préstamo tiene tasas de interés más bajas.</p>',
+                    'es' => '<p>Un valor T alto significa que el servicio de préstamo tiene tasas de interés más bajas.</p>',
                     // 'uk' => '<p>Високий показник T-варість означає кредитний сервіс має менші відсоткові ставки</p>',
                     // 'ru' => '<p>Высокий показатель T-варость означает кредитный сервис имеет меньшие процентные ставки</p>',
                 ],

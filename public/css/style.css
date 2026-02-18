@@ -4049,10 +4049,38 @@ form .modal-form-text {
 .article-content h3,
 .article-content h4 {
     font-family: "Nunito Sans", sans-serif;
-    font-weight: 700;
-    font-size: 22px;
     color: var(--color-white);
     padding: 20px 0 30px;
+}
+.article-content h1 {
+    font-weight: 900;
+    font-size: 34px;
+}
+
+.article-content h2 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.article-content h3 {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.article-content h4 {
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px 0 15px;
+}
+.article-content h5 {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 0 10px;
+}
+.article-content h6 {
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 0 10px;
 }
 .article-content img {
     margin: 40px auto;
