@@ -482,7 +482,9 @@ trix-editor {
     align-items: center;
 
     background-color: var(--color-white);
-    box-shadow: 0 2px 4px rgba(0, 0, 20, 0.08), 0 1px 2px rgba(0, 0, 20, 0.08);
+    box-shadow:
+        0 2px 4px rgba(0, 0, 20, 0.08),
+        0 1px 2px rgba(0, 0, 20, 0.08);
 
     /* padding: 20px; */
     padding: 16px 20px;
@@ -586,7 +588,9 @@ trix-editor {
     width: 25%;
 }
 .card {
-    box-shadow: 0 2px 4px rgba(0, 0, 20, 0.08), 0 1px 2px rgba(0, 0, 20, 0.08);
+    box-shadow:
+        0 2px 4px rgba(0, 0, 20, 0.08),
+        0 1px 2px rgba(0, 0, 20, 0.08);
     border: 0;
     border-radius: 0.5rem;
     max-width: 1200px;
@@ -904,7 +908,9 @@ trix-editor {
     width: 100%;
     margin: 0 auto;
 
-    box-shadow: 0 2px 4px rgba(0, 0, 20, 0.08), 0 1px 2px rgba(0, 0, 20, 0.08);
+    box-shadow:
+        0 2px 4px rgba(0, 0, 20, 0.08),
+        0 1px 2px rgba(0, 0, 20, 0.08);
     border: 0;
     border-radius: 0.5rem;
     width: 100%;
@@ -1332,7 +1338,9 @@ input[type="checkbox"] {
     flex-wrap: wrap;
 }
 .dashboard__item {
-    box-shadow: 0 2px 4px rgba(0, 0, 20, 0.08), 0 1px 2px rgba(0, 0, 20, 0.08);
+    box-shadow:
+        0 2px 4px rgba(0, 0, 20, 0.08),
+        0 1px 2px rgba(0, 0, 20, 0.08);
     border: 0;
     border-radius: 0.5rem;
     width: 100%;
@@ -1399,6 +1407,7 @@ input[type="checkbox"] {
 .pagination {
     display: flex;
     gap: 2px;
+    list-style-type: none;
 }
 .pagination .page-item {
     border: 1px solid var(--color-grey);
