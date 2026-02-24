@@ -19,8 +19,7 @@
 
             <x-admin.link href="{{ route('admin.services.index') }}" class="admin-link">
 
-                <svg class="admin-link-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                    stroke="currentColor" class="w-6 h-6">
+                <svg class="admin-link-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 15.75 3 12m0 0 3.75-3.75M3 12h18" />
                 </svg>
 
@@ -51,30 +50,29 @@
 
                     <x-admin.errors />
 
-                    <x-admin.form action="{{ route('admin.services.store') }}" enctype="multipart/form-data" method="POST"
-                        class="card-form">
+                    <x-admin.form action="{{ route('admin.services.store') }}" enctype="multipart/form-data" method="POST" class="card-form">
 
 
                         {{-- ? name --}}
 
                         @foreach ($languages as $language )
                         <div class="card-body__group">
-                        <x-admin.form-item>
+                            <x-admin.form-item>
 
-                            <x-admin.label> {{ __('admin.label.name') }} ({{ $language->code }}) </x-admin.label>
+                                <x-admin.label> {{ __('admin.label.name') }} ({{ $language->code }}) </x-admin.label>
 
-                            @if ($errors->has('name.' . $language->code))
+                                @if ($errors->has('name.' . $language->code))
 
-                                <x-admin.input name="name[{{ $language->code }}]" class="input-error" value="{{ old('name.' . $language->code) }}"  />
-                                
-                            @else
-                             
-                                <x-admin.input name="name[{{ $language->code }}]" value="{{ old('name.' . $language->code) }}"  />
+                                <x-admin.input name="name[{{ $language->code }}]" class="input-error" value="{{ old('name.' . $language->code) }}" />
 
-                            @endif
-                                
-                        </x-admin.form-item>
-                        </div>  
+                                @else
+
+                                <x-admin.input name="name[{{ $language->code }}]" value="{{ old('name.' . $language->code) }}" />
+
+                                @endif
+
+                            </x-admin.form-item>
+                        </div>
                         @endforeach
 
 
@@ -86,8 +84,7 @@
 
                                     <x-admin.label> {{__('admin.label.icon')}} </x-admin.label>
                                     <x-admin.image class="picture-block hidden"></x-admin.image>
-                                    <x-admin.input-file name="icon" type="file" id="input-file"
-                                        accept="image/png, image/jpeg, image/webp" />
+                                    <x-admin.input-file name="icon" type="file" id="input-file" />
 
                                 </x-admin.form-item>
                             </div>
@@ -96,11 +93,11 @@
 
                         <x-admin.form-item>
 
-                           <x-admin.label> {{ __('admin.label.alt_image') }} </x-admin.label>
+                            <x-admin.label> {{ __('admin.label.alt_image') }} </x-admin.label>
 
-                           <x-admin.input name="alt_image" type="text"  />
+                            <x-admin.input name="alt_image" type="text" />
 
-                       </x-admin.form-item>
+                        </x-admin.form-item>
 
 
 
@@ -193,22 +190,22 @@
 
 
                         {{-- ? rating service --}}
-                        
+
 
                         <div class="card-body-row">
 
-                            @foreach ($categories as $category)    
-                                <div class="card-body__group">
-                                    <x-admin.form-item>
-    
-                                        <x-admin.label> {{ $category->name }} </x-admin.label>
-                                        <x-admin.input type="number" name="{{ $category->slug }}" min="0.01" max="10" step="0.01" style="width: 200px" />
-    
-                                    </x-admin.form-item>                                    
-                                </div>
+                            @foreach ($categories as $category)
+                            <div class="card-body__group">
+                                <x-admin.form-item>
+
+                                    <x-admin.label> {{ $category->name }} </x-admin.label>
+                                    <x-admin.input type="number" name="{{ $category->slug }}" min="0.01" max="10" step="0.01" style="width: 200px" />
+
+                                </x-admin.form-item>
+                            </div>
                             @endforeach
                         </div>
-                                               
+
                         {{-- ? url --}}
                         <div class="card-body__group">
                             <x-admin.form-item>
@@ -222,47 +219,47 @@
                         {{-- ? license --}}
                         @foreach ($languages as $language )
                         <div class="card-body__group">
-                        <x-admin.form-item>
+                            <x-admin.form-item>
 
-                            <x-admin.label> {{ __('admin.label.license') }} ({{ $language->code }}) </x-admin.label>
+                                <x-admin.label> {{ __('admin.label.license') }} ({{ $language->code }}) </x-admin.label>
 
-                            @if ($errors->has('license.' . $language->code))
+                                @if ($errors->has('license.' . $language->code))
 
-                                <x-admin.input name="license[{{ $language->code }}]" class="input-error" value="{{ old('license.' . $language->code) }}"  />
-                                
-                            @else
-                             
-                                <x-admin.input name="license[{{ $language->code }}]" value="{{ old('license.' . $language->code) }}"  />
+                                <x-admin.input name="license[{{ $language->code }}]" class="input-error" value="{{ old('license.' . $language->code) }}" />
 
-                            @endif
-                                
-                        </x-admin.form-item>
+                                @else
+
+                                <x-admin.input name="license[{{ $language->code }}]" value="{{ old('license.' . $language->code) }}" />
+
+                                @endif
+
+                            </x-admin.form-item>
                         </div>
                         @endforeach
 
-                     
+
                         {{-- ? comp_name --}}
                         @foreach ($languages as $language )
                         <div class="card-body__group">
-                        <x-admin.form-item>
+                            <x-admin.form-item>
 
-                            <x-admin.label> {{ __('admin.label.comp-name') }} ({{ $language->code }}) </x-admin.label>
+                                <x-admin.label> {{ __('admin.label.comp-name') }} ({{ $language->code }}) </x-admin.label>
 
-                            @if ($errors->has('comp_name.' . $language->code))
+                                @if ($errors->has('comp_name.' . $language->code))
 
-                                <x-admin.input name="comp_name[{{ $language->code }}]" class="input-error" value="{{ old('comp_name.' . $language->code) }}"  />
-                                
-                            @else
-                             
-                                <x-admin.input name="comp_name[{{ $language->code }}]" value="{{ old('comp_name.' . $language->code) }}"  />
+                                <x-admin.input name="comp_name[{{ $language->code }}]" class="input-error" value="{{ old('comp_name.' . $language->code) }}" />
 
-                            @endif
-                                
-                        </x-admin.form-item>
-                        </div>   
+                                @else
+
+                                <x-admin.input name="comp_name[{{ $language->code }}]" value="{{ old('comp_name.' . $language->code) }}" />
+
+                                @endif
+
+                            </x-admin.form-item>
+                        </div>
                         @endforeach
 
-                     
+
 
                         {{-- ? email --}}
                         <div class="card-body__group">
@@ -277,25 +274,25 @@
                         {{-- ? address --}}
                         @foreach ($languages as $language )
                         <div class="card-body__group">
-                        <x-admin.form-item>
+                            <x-admin.form-item>
 
-                            <x-admin.label> {{ __('admin.label.address') }} ({{ $language->code }}) </x-admin.label>
+                                <x-admin.label> {{ __('admin.label.address') }} ({{ $language->code }}) </x-admin.label>
 
-                            @if ($errors->has('address.' . $language->code))
+                                @if ($errors->has('address.' . $language->code))
 
-                                <x-admin.input name="address[{{ $language->code }}]" class="input-error" value="{{ old('address.' . $language->code) }}"  />
-                                
-                            @else
-                             
-                                <x-admin.input name="address[{{ $language->code }}]" value="{{ old('address.' . $language->code) }}"  />
+                                <x-admin.input name="address[{{ $language->code }}]" class="input-error" value="{{ old('address.' . $language->code) }}" />
 
-                            @endif
-                                
-                        </x-admin.form-item>
-                        </div>    
+                                @else
+
+                                <x-admin.input name="address[{{ $language->code }}]" value="{{ old('address.' . $language->code) }}" />
+
+                                @endif
+
+                            </x-admin.form-item>
+                        </div>
                         @endforeach
 
-                     
+
                         {{-- ? phone --}}
                         <div class="card-body__group">
                             <x-admin.form-item>

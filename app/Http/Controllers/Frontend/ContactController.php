@@ -32,7 +32,7 @@ class ContactController extends Controller
 
         try {
             // ? send email
-            Mail::to('support@trixy.com.ua')->send(new SendMessage($data));
+            Mail::to('support@trixy.mx')->send(new SendMessage($data));
 
             $res = [
                 "status" => "ok",

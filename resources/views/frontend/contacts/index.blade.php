@@ -87,7 +87,7 @@
             <p class="contacts-box__text">
                 <span>
                     Escríbenos a
-                    <a class="contacts__link link" href="mailto:support@trixy.com.ua">support@trixy.com.ua</a>
+                    <a class="contacts__link link" href="mailto:support@trixy.mx">support@trixy.mx</a>
                 </span>
                 <span>
                     o completa el formulario de contacto
@@ -103,7 +103,7 @@
 
                 <div class="contact-forms-success">
                     <span class="forgot-success__title">
-                        {{ __('Повідомлення успішно відправлено.') }}
+                        {{ __('Mensaje enviado con éxito') }}
                     </span>
                 </div>
 

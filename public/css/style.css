@@ -929,7 +929,7 @@ body.fixed .wrapper::before {
     align-items: center;
     gap: 10px;
     padding: 2px;
-    width: 86px;
+    width: 90px;
     height: 110px;
     border: 2px solid #67ec64;
     border-radius: 16px;
@@ -939,7 +939,7 @@ body.fixed .wrapper::before {
 .example-service-chart__name {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 11px;
     color: var(--color-white);
 }
 .example-service:nth-child(3) .example-service-chart {

@@ -42,7 +42,7 @@
                             </div>
 
 
-                            <a href="{{ route('article', $post->slug) }}" class="slider-post__item-link">Читати далі</a>
+                            <a href="{{ route('article', $post->slug) }}" class="slider-post__item-link">Leer más</a>
                         </div>
 
 

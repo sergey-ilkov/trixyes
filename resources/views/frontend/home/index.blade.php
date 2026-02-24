@@ -94,8 +94,8 @@
                 <div class="example-box bg-grd-1">
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -118,8 +118,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -142,8 +142,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                            <span class="example-service__title">“Selfie-credit”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                            <span class="example-service__title">“Dineria”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -170,8 +170,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-plus.png') }}" alt="Logo Credit-Plus">
-                            <span class="example-service__title">“Credit-Plus”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kubofinanciero.svg') }}" alt="Logo Kubofinanciero">
+                            <span class="example-service__title">“Kubofinanciero”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -282,8 +282,8 @@
 
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -306,8 +306,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -330,8 +330,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                            <span class="example-service__title">“Selfie-credit”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                            <span class="example-service__title">“Dineria”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -358,8 +358,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-plus.png') }}" alt="Logo Credit-Plus">
-                            <span class="example-service__title">“Credit-Plus”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kubofinanciero.svg') }}" alt="Logo Kubofinanciero">
+                            <span class="example-service__title">“Kubofinanciero”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -422,8 +422,8 @@
 
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -446,8 +446,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -470,8 +470,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                            <span class="example-service__title">“Selfie-credit”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                            <span class="example-service__title">“Dineria”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -498,8 +498,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-plus.png') }}" alt="Logo Credit-Plus">
-                            <span class="example-service__title">“Credit-Plus”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kubofinanciero.svg') }}" alt="Logo Kubofinanciero">
+                            <span class="example-service__title">“Kubofinanciero”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -559,8 +559,8 @@
 
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -584,8 +584,8 @@
                     <div class="example-service example-service-column">
                         <div class="example-service-top">
                             <div class="example-service__col">
-                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                                <span class="example-service__title">“Selfie-credit”</span>
+                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                                <span class="example-service__title">“Dineria”</span>
                             </div>
                             <div class="example-service__col">
                                 <ul class="example-service__list">
@@ -622,8 +622,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -776,43 +776,57 @@
 
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                                    <span class="services-slider__item-title">Credit-Kasa</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                                    <span class="services-slider__item-title">Kueski</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo SELFIE credit">
-                                    <span class="services-slider__item-title">SELFIE credit</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                                    <span class="services-slider__item-title">Vivus</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/credit-plus.png') }}" alt="Logo Credit-Plus">
-                                    <span class="services-slider__item-title">Credit-Plus</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                                    <span class="services-slider__item-title">Dineria</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                                    <span class="services-slider__item-title">Credit-Kasa</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/kubofinanciero.svg') }}" alt="Logo Kubofinanciero">
+                                    <span class="services-slider__item-title">Kubofinanciero</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo SELFIE credit">
-                                    <span class="services-slider__item-title">SELFIE credit</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/clicredito.svg') }}" alt="Logo Clicredito">
+                                    <span class="services-slider__item-title">Clicredito</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="services-slider__item">
-                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/credit-plus.png') }}" alt="Logo Credit-Plus">
-                                    <span class="services-slider__item-title">Credit-Plus</span>
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/dineromon.svg') }}" alt="Logo Dineromon">
+                                    <span class="services-slider__item-title">Dineromon</span>
+                                    <span class="services-slider__item-btn">Cambiar</span>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="services-slider__item">
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/lanu.svg') }}" alt="Logo Lanu">
+                                    <span class="services-slider__item-title">Lanu</span>
+                                    <span class="services-slider__item-btn">Cambiar</span>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="services-slider__item">
+                                    <img width="160" height="80" class="services-slider__item-img lazy" data-src="{{ asset('images/services/turbopeso.svg') }}" alt="Logo Turbopeso">
+                                    <span class="services-slider__item-title">Turbopeso</span>
                                     <span class="services-slider__item-btn">Cambiar</span>
                                 </div>
                             </div>
@@ -868,8 +882,8 @@
 
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -892,8 +906,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -918,8 +932,8 @@
                         <div class="example-service-top">
 
                             <div class="example-service__col">
-                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                                <span class="example-service__title">“Selfie-credit”</span>
+                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                                <span class="example-service__title">“Dineria”</span>
                             </div>
                             <div class="example-service__col">
                                 <ul class="example-service__list">
@@ -994,8 +1008,8 @@
 
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/credit-kasa.png') }}" alt="Logo Credit-Kasa">
-                            <span class="example-service__title">“Credit-Kasa”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/kueski.svg') }}" alt="Logo Kueski">
+                            <span class="example-service__title">“Kueski”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -1018,8 +1032,8 @@
                     </div>
                     <div class="example-service">
                         <div class="example-service__col">
-                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/e-money.png') }}" alt="Logo Є-гроші">
-                            <span class="example-service__title">“Є-гроші”</span>
+                            <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/vivus.svg') }}" alt="Logo Vivus">
+                            <span class="example-service__title">“Vivus”</span>
                         </div>
                         <div class="example-service__col">
                             <ul class="example-service__list">
@@ -1044,8 +1058,8 @@
                         <div class="example-service-top">
 
                             <div class="example-service__col">
-                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/selfie-credit.png') }}" alt="Logo Selfie-credit">
-                                <span class="example-service__title">“Selfie-credit”</span>
+                                <img width="160" height="80" class="example-service__logo lazy" data-src="{{ asset('images/services/dineria.svg') }}" alt="Logo Dineria">
+                                <span class="example-service__title">“Dineria”</span>
                             </div>
                             <div class="example-service__col">
                                 <ul class="example-service__list">
